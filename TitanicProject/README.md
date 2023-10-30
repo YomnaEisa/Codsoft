@@ -10,7 +10,7 @@ Through Exploratory Data Analysis (EDA), we embark on a journey to understand th
 ## Dataset
 The dataset used for this project contains detailed information about the passengers, including:
 
-PassengerId  - ID assigened to each Passenger 
+PassengerId  - ID assigened to each Passenger \n
 Age          - Passenger's Age
 Pclass       - Passenger's ticket's class (1st, 2nd or 3rd class tickets)
 Name         - Passenger's name
