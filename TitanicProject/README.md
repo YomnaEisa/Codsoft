@@ -31,7 +31,7 @@ Survived     - Whether they survived or not (0 = did not survive or 1 survived )
 
 ## Getting Started
 1. Clone the repository:<br>
-   git clone https://github.com/YomnaEisa/Codsoft/tree/main/TitanicProject<br>
+   git clone https://github.com/YomnaEisa/TitanicProject.git<br>
    cd TitanicProject
 
 <br>
