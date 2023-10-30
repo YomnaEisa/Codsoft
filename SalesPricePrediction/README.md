@@ -25,8 +25,10 @@ The project is organized into the following directories:<br>
 
 ## Getting Started
 1. Clone the repository:<br>
-git clone https://github.com/YomnaEisa/SalesPricePrediction.git<br>
-cd SalesPricePrediction
+   git clone https://github.com/YomnaEisa/SalesPricePrediction.git<br>
+   cd TitanicProject
+
 <br>
+
 2. Install the required packages:<br>
-pip install -r requirements.txt
+   pip install -r requirements.txt
