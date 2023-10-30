@@ -7,26 +7,26 @@ By analyzing these attributes, we intend to uncover valuable insights that can g
 
 ## Dataset
 The dataset used for this project contains detailed information about the customer, including:<br>
-customer name <br>      
-customer e-mail <br>           
-country      <br>         
-gender   <br>              
-age         <br>              
-annual Salary   <br>          
-credit card debt   <br>       
-net worth            <br>      
-car purchase amount  <br>      
+customer name<br>      
+customer e-mail<br>           
+country<br>         
+gender<br>              
+age<br>              
+annual Salary<br>          
+credit card debt<br>       
+net worth<br>      
+car purchase amount<br>      
 
 ## Project Structure
 The project is organized into the following directories:<br>
-[Dataset](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Dataset): This directory contains the dataset used for training and model evaluation.<br>
-[Exploratory Data Analysis](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Exploratory%20Data%20Analysis): This directory contains the Jupyter Notebook used for Exploratory Data Analysis where the data is explored, preprocessed and hypotheses were formed and validated.<br>
-[Model](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Model): The trained model is saved in this directory.<br>
-[requirements.txt](https://github.com/YomnaEisa/Codsoft/blob/main/SalesPricePrediction/requirements.txt): List of Python dependencies required to run the project.<br>
+<br>[Dataset](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Dataset): This directory contains the dataset used for training and model evaluation.<br>
+<br>[Exploratory Data Analysis](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Exploratory%20Data%20Analysis): This directory contains the Jupyter Notebook used for Exploratory Data Analysis where the data is explored, preprocessed and hypotheses were formed and validated.<br>
+<br>[Model](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction/Model): The trained model is saved in this directory.<br>
+<br>[requirements.txt](https://github.com/YomnaEisa/Codsoft/blob/main/SalesPricePrediction/requirements.txt): List of Python dependencies required to run the project.<br>
 
 ## Getting Started
 Clone the repository:<br>
-git clone https://github.com/YomnaEisa/SalesPricePrediction.git
+git clone https://github.com/YomnaEisa/SalesPricePrediction.git<br>
 cd SalesPricePrediction
 <br>
 Install the required packages:<br>
