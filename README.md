@@ -1,6 +1,6 @@
 # Codsoft
 ## Welcome to the Codsoft Projects Repository!
-this repo contains projects I've worked on during my internship at codesoft, hope you enjoy exploring them as much as I did!
+this Repository contains projects I've worked on during my internship at codesoft, hope you enjoy exploring them as much as I did!
 
 ### [Credit Card Fraud Detection](https://github.com/YomnaEisa/Codsoft/tree/main/CreditCardFraudDetection)
 The Credit Card Fraud Detection project focuses on transactions made by European cardholders in September 2013. The primary goal is to help credit card companies identify fraudulent transactions, ensuring customers aren't wrongly charged for unauthorized purchases. The dataset covers two days, including a total of 284,807 transactions, with only 492 (0.172%) identified as fraudulent.
