@@ -17,7 +17,7 @@ The dataset includes a wide range of Indian movies, providing various attributes
 
 ## Project Structure
 The project is organized into the following directories:<br>
-<br>[Dataset](https://github.com/YomnaEisa/Codsoft/tree/main/CreditCardFraudDetection/Dataset): This directory contains the dataset used for training and model evaluation.<br>
+<br>[Dataset](https://github.com/YomnaEisa/Codsoft/tree/main/IMDbMovieRating/Dataset): This directory contains the dataset used for training and model evaluation.<br>
 <br>[Exploratory Data Analysis](https://github.com/YomnaEisa/Codsoft/tree/main/IMDbMovieRating/Exploratory%20Data%20Analysis): This directory contains the Jupyter Notebook used for Exploratory Data Analysis where the data is explored, preprocessed and hypotheses were formed and validated.<br>
 <br>[Model](https://github.com/YomnaEisa/Codsoft/tree/main/IMDbMovieRating/Model): The trained model is saved in this directory.<br>
 <br>[requirements.txt](https://github.com/YomnaEisa/Codsoft/blob/main/IMDbMovieRating/requirements.txt): List of Python dependencies required to run the project.<br>
