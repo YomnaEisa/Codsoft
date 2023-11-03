@@ -26,7 +26,7 @@ The project is organized into the following directories:<br>
 ## Getting Started
 1. Clone the repository:<br>
    git clone https://github.com/YomnaEisa/SalesPricePrediction.git<br>
-   cd TitanicProject
+   cd SalesPricePrediction
 
 <br>
 
