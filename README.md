@@ -9,7 +9,7 @@ The Credit Card Fraud Detection project focuses on transactions made by European
 The IMDb Movie Rating Prediction project analyzes a diverse collection of Indian movies sourced from IMDb.com. The objective is to conduct an in-depth exploratory data analysis to reveal trends, patterns, and insights within the dataset. This enables a comprehensive understanding of the Indian movie landscape and facilitates valuable predictions about their ratings.
 
 ### [Cars Price Prediction Project](https://github.com/YomnaEisa/Codsoft/tree/main/SalesPricePrediction)
-The Cars Price Prediction Project aims to develop a predictive model estimating the overall amount customers are likely to spend on vehicles. Leveraging various customer characteristics, including name, email, country, gender, age, annual salary, credit card debt, and net worth, the project strives to create personalized sales strategies for vehicle salespeople.
+The Cars Price Prediction Project aims to develop a predictive model estimating the overall amount customers are likely to spend on vehicles. Leveraging various customer characteristics, including name, email, country, gender, age, annual salary, credit card debt, and net worth, the project estimates the overall amount customers are likely to spend.
 
 ### [Titanic Survival Prediction Project](https://github.com/YomnaEisa/Codsoft/tree/main/TitanicProject)
 The Titanic Survival Prediction project utilizes data from the historic Titanic event, containing information about individual passengers. The primary objective is to build a predictive model to determine a passenger's likelihood of survival based on attributes like age, gender, ticket class, fare, cabin, and survival status.
